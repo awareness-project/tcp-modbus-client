@@ -1,6 +1,6 @@
 {
-  "name": "TcpModbusClient",
-  "version": "0.0.1",
+  "name": "tcp-modbus-client",
+  "version": "0.0.2",
   "description": "node.js modbus TCP client implementation",
   "main": "index.js",
   "dependencies": {

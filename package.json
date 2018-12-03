@@ -1,0 +1,16 @@
+{
+  "name": "TcpModbusClient",
+  "version": "0.0.1",
+  "description": "node.js modbus TCP client implementation",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modbus"
+  ],
+  "author": "Victor Kulikov",
+  "license": "MIT"
+}
